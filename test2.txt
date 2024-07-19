@@ -1,2 +1,2 @@
 This is a sample text file.
-But now i have changed it.
+another line has been added now.
